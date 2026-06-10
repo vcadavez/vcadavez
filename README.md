@@ -1,12 +1,11 @@
 # Olá, eu sou o Vasco Cadavez 👋
 
-Sou Professor no Departamento de Ciência Animal da Escola Superior Agrária do Instituto Politécnico de Bragança (ESA-IPB), onde leciono na área das Ciências Animais. Desenvolvo e colaboro em projetos relacionados com ciência de dados, avaliação quantitativa de risco, segurança alimentar, microbiologia preditiva e ferramentas computacionais para apoio à investigação.
+Sou Professor no Departamento de Ciência Animal da Escola Superior Agrária do Instituto Politécnico de Bragança (ESA-IPB). Desenvolvo e colaboro em projetos relacionados com ciência de dados, avaliação quantitativa de risco, segurança dos alimnetos, microbiologia preditiva e ferramentas computacionais para apoio à investigação.
 
 ## 🔬 Áreas de interesse
 
 - Ciência Animal e sistemas agroalimentares
-- Segurança alimentar e avaliação quantitativa de risco
-- Microbiologia preditiva e modelos dose-resposta
+- Segurança dos alimentos e avaliação quantitativa de risco
 - Análise de dados, modelação e simulação
 - Desenvolvimento de ferramentas em **R**, **Shiny** e **Quarto**
 - Ciência aberta, reprodutibilidade e software para investigação
@@ -31,8 +30,8 @@ Coleção de funções de modelos dose-resposta para *Listeria monocytogenes*, c
 ### [`Shiny_qraLm`](https://github.com/vcadavez/Shiny_qraLm)
 Aplicação Shiny associada a ferramentas de avaliação quantitativa de risco.
 
-### [`icpmfwebsite`](https://github.com/vcadavez/icpmfwebsite)
-Website do ICPMF, desenvolvido com ferramentas web e conteúdos para a comunidade de microbiologia preditiva.
+### [`predmicror`](https://github.com/fsqanalytics/predmicror)
+Website da package R predmicror, desenvolvida para a comunidade de microbiologia preditiva.
 
 ## 📊 Estatísticas do GitHub
 
@@ -43,12 +42,8 @@ Website do ICPMF, desenvolvido com ferramentas web e conteúdos para a comunidad
 ## 🌍 Onde me encontrar
 
 - GitHub: [@vcadavez](https://github.com/vcadavez)
-- Página institucional: [ipb.pt/vcadavez](http://www.ipb.pt/vcadavez/)
+- Página institucional: [ipb.pt/vcadavez](http://www.ipb.pt/~vcadavez/)
 - X/Twitter: [@Vcadavez](https://twitter.com/Vcadavez)
-
-## 🤝 Colaboração
-
-Estou interessado em colaborações nas áreas de segurança alimentar, ciência animal, microbiologia preditiva, avaliação de risco e desenvolvimento de software científico aberto.
 
 ---
 ⭐ Obrigado por visitar o meu perfil!
