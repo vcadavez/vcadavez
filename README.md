@@ -1,16 +1,54 @@
-## Hi there 👋
+# Olá, eu sou o Vasco Cadavez 👋
 
-<!--
-**vcadavez/vcadavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Professor no Departamento de Ciência Animal da Escola Superior Agrária do Instituto Politécnico de Bragança (ESA-IPB), onde leciono na área das Ciências Animais. Desenvolvo e colaboro em projetos relacionados com ciência de dados, avaliação quantitativa de risco, segurança alimentar, microbiologia preditiva e ferramentas computacionais para apoio à investigação.
 
-Here are some ideas to get you started:
+## 🔬 Áreas de interesse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Ciência Animal e sistemas agroalimentares
+- Segurança alimentar e avaliação quantitativa de risco
+- Microbiologia preditiva e modelos dose-resposta
+- Análise de dados, modelação e simulação
+- Desenvolvimento de ferramentas em **R**, **Shiny** e **Quarto**
+- Ciência aberta, reprodutibilidade e software para investigação
+
+## 🧰 Tecnologias e ferramentas
+
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Shiny](https://img.shields.io/badge/Shiny-0088CC?style=flat-square&logo=rstudio&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-39729E?style=flat-square&logo=quarto&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=flat-square)
+![Reproducible Research](https://img.shields.io/badge/Reproducible%20Research-2E8B57?style=flat-square)
+
+## 📌 Projetos em destaque
+
+### [`qraLm`](https://github.com/vcadavez/qraLm)
+Pacote em R para avaliação quantitativa de risco de *Listeria monocytogenes* em diferentes produtos alimentares.
+
+### [`doseresponsemodels`](https://github.com/vcadavez/doseresponsemodels)
+Coleção de funções de modelos dose-resposta para *Listeria monocytogenes*, com aplicação em avaliação de risco.
+
+### [`Shiny_qraLm`](https://github.com/vcadavez/Shiny_qraLm)
+Aplicação Shiny associada a ferramentas de avaliação quantitativa de risco.
+
+### [`icpmfwebsite`](https://github.com/vcadavez/icpmfwebsite)
+Website do ICPMF, desenvolvido com ferramentas web e conteúdos para a comunidade de microbiologia preditiva.
+
+## 📊 Estatísticas do GitHub
+
+![Vasco's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcadavez&show_icons=true&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vcadavez&layout=compact&hide_border=true)
+
+## 🌍 Onde me encontrar
+
+- GitHub: [@vcadavez](https://github.com/vcadavez)
+- Página institucional: [ipb.pt/vcadavez](http://www.ipb.pt/vcadavez/)
+- X/Twitter: [@Vcadavez](https://twitter.com/Vcadavez)
+
+## 🤝 Colaboração
+
+Estou interessado em colaborações nas áreas de segurança alimentar, ciência animal, microbiologia preditiva, avaliação de risco e desenvolvimento de software científico aberto.
+
+---
+⭐ Obrigado por visitar o meu perfil!
