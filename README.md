@@ -1,6 +1,6 @@
 # Olá, eu sou o Vasco Cadavez 👋
 
-Sou Professor no Departamento de Ciência Animal da Escola Superior Agrária do Instituto Politécnico de Bragança (ESA-IPB). Desenvolvo e colaboro em projetos relacionados com ciência de dados, avaliação quantitativa de risco, segurança dos alimnetos, microbiologia preditiva e ferramentas computacionais para apoio à investigação.
+Sou Professor no Departamento de Ciência Animal da Universidade Politécnica de Bragança (UPB). Desenvolvo e colaboro em projetos relacionados com ciência de dados, avaliação quantitativa de risco, segurança dos alimnetos, microbiologia preditiva e ferramentas computacionais para apoio à investigação.
 
 ## 🔬 Áreas de interesse
 
