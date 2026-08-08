@@ -42,7 +42,7 @@ Website da package R predmicror, desenvolvida para a comunidade de microbiologia
 ## 🌍 Onde me encontrar
 
 - GitHub: [@vcadavez](https://github.com/vcadavez)
-- Página institucional: [ipb.pt/vcadavez](http://www.ipb.pt/~vcadavez/)
+- Página institucional: [ipb.pt/vcadavez](http://www.unipb.pt/~vcadavez/)
 - X/Twitter: [@Vcadavez](https://twitter.com/Vcadavez)
 
 ---
